@@ -2,7 +2,8 @@
 
 <h4>Sou apaixonado por tecnologia e soluções inovadoras 👍</h4>
 
-Aqui está algumas das habilidades e conhecimento que possuo: 
+Aqui está algumas das habilidades e conhecimentos que possuo: 
+🎯 Experiências: 
 - JavaScript
 - React Js
 - Typescript
@@ -10,6 +11,11 @@ Aqui está algumas das habilidades e conhecimento que possuo:
 - MySQL
 - MongoDB
 - HTML e CSS
+
+🎯Soft Skills:
+    
+Sempre me destaquei pela minha habilidade em expressar minhas ideias de forma clara e direta, além de sempre cumprir os prazos e abordar as tarefas com um pensamento crítico. Acredito que essas características são bastante valiosas para o progresso de qualquer trabalho em equipe.
+
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
