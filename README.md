@@ -1,6 +1,8 @@
 ### Olá sou o Rafael - Desenvolvedor de software 👋
 
-Aqui está algumas das habilidades que conhecimento que possuo: 
+<h4>Sou apaixonado por tecnologia e soluções inovadoras 👍</h4>
+
+Aqui está algumas das habilidades e conhecimento que possuo: 
 - JavaScript
 - React Js
 - Typescript
@@ -29,4 +31,4 @@ Aqui está algumas das habilidades que conhecimento que possuo:
 </div>
 
 ##
-<h4>Confira aqui nos meus repositórios alguns dos meus projetos que realizo.</h4>
+<h4>Confira aqui nos meus repositórios alguns dos meus projetos que realizo!</h4>
