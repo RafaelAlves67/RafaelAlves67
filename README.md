@@ -5,17 +5,17 @@
 Aqui está algumas das habilidades e conhecimentos que possuo: 
 
 🎯 Experiências: 
+- Python
+- Power BI
+- SQL SERVER
 - JavaScript
-- React Js
-- Typescript
 - Node Js
 - MySQL
 - MongoDB
-- HTML e CSS
 
 🎯Soft Skills:
     
-Sempre me destaquei pela minha habilidade em expressar minhas ideias de forma clara e direta, além de sempre cumprir os prazos e abordar as tarefas com um pensamento crítico. Acredito que essas características são bastante valiosas para o progresso de qualquer trabalho em equipe.
+Sempre me destaquei pela minha habilidade em expressar minhas ideias de forma clara e direta, além de sempre cumprir os prazos e abordar as tarefas com um pensamento e uma análise crítica. Acredito que essas características são bastante valiosas para o progresso de qualquer trabalho em equipe.
 
 
   <div style="display: inline_block"><br>
