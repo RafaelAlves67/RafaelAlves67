@@ -5,11 +5,11 @@
 Aqui está algumas das habilidades e conhecimentos que possuo: 
 
 🎯 Experiências: 
-- Python
-- Power BI
-- SQL SERVER
-- JavaScript
 - Node Js
+- React Js
+- SQL SERVER
+- PostgresSQL
+- Python
 - MySQL
 - MongoDB
 
